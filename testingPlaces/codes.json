@@ -1,6 +1,6 @@
 {
     "hidden1": {
-        "benefit1": "tokens:100",
+        "benefit1": "coins:100",
         "benefit2": "nametag:Hello World!"
     }
 }
