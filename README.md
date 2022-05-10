@@ -1,2 +1,2 @@
 # FFlagManager
-This is just a simple repo to handle fflags, dflags and codes
+This is just a simple repo to handle fflags and dfflags
