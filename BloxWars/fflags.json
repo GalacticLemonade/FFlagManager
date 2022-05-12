@@ -1,4 +1,5 @@
 {
     "comments": "FFlags are flags that update when a new server starts.",
-    "onlyTestersAllowed": true
+    "onlyTestersAllowed": true,
+    "OwnerBadge": true
 }
